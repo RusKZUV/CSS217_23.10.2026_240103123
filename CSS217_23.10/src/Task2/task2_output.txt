@@ -1,0 +1,5 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.1\lib\idea_rt.jar=62073:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\rusla\IdeaProjects\CSS 217\out\production\CSS217_23.10" Task2.Main2
+Student ID: 240103123
+Class Adapter (Celsius):  37.0
+Object Adapter (Celsius): 37.0
+Status: Identical values
