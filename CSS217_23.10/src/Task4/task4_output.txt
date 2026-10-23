@@ -1,0 +1,6 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.1\lib\idea_rt.jar=62887:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\rusla\IdeaProjects\CSS 217\out\production\CSS217_23.10" Task4.Main4
+Student ID: 240103123
+Raw string: 240103123#ruslan@sdu.edu#4
+Parsed record: UserProfile[studentId=240103123, email=ruslan@sdu.edu, accessLevel=4]
+
+Process finished with exit code 0
