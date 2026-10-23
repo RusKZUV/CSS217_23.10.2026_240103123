@@ -1,0 +1,7 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.1\lib\idea_rt.jar=64422:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\rusla\IdeaProjects\CSS 217\out\production\CSS217_23.10" Task6.Main6
+Student ID: 240103123
+Reading good key: value_for_good_key
+Caught exception: Failed to read key: bad_key
+Underlying cause: IOException
+
+Process finished with exit code 0
